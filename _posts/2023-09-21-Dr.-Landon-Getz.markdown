@@ -1,0 +1,20 @@
+---
+layout: default
+title: Dr. Landon J. Getz
+date: 2023-09-21
+img: LandonGetz.png
+alt: image-alt
+project-date: September 2023
+client: 
+description:
+---
+
+**Name:** Dr. Landon J Getz
+
+**Degree Held:** PhD in Microbiology and Immunology, Dalhousie University
+
+**Current Job:** Postdoctoral Fellow, Department of Biochemistry, University of Toronto
+
+**Pronouns:** He/Him
+
+**Identity:** Gay/Queer Man
